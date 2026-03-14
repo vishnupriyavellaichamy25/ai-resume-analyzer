@@ -1,7 +1,3 @@
 streamlit
-PyPDF2
-spacy
-nltk
-scikit-learn
-pandas
-sentence-transformers
+pdfminer.six
+streamlit-antd-components
